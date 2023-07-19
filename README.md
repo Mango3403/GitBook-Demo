@@ -2,13 +2,9 @@
 
 ### Directory
 
-{% content-ref url="xu-qiu-wen-dang.md" %}
-[xu-qiu-wen-dang.md](xu-qiu-wen-dang.md)
-{% endcontent-ref %}
+[xu-qiu-wen-dang.md](xu-qiu-wen-dang.md "mention")
 
-{% content-ref url="xiang-mu-wen-dang.md" %}
-[xiang-mu-wen-dang.md](xiang-mu-wen-dang.md)
-{% endcontent-ref %}
+[xiang-mu-wen-dang.md](xiang-mu-wen-dang.md "mention")
 
 [jie-kou-wen-dang.md](jie-kou-wen-dang.md "mention")
 
